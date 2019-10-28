@@ -1,1 +1,5 @@
-# world_cup_2014 Special_topics for Ontology engineering World_Cup_2014 Owl file and data for creating GraphDb container
+#Web-Semantic
+#Student: Mahammad Jabiyev
+Assignment: Fifa2019 players
+In this project it shows and arrays data from .csv file to .ttl file(based on .owl file) and implementing to GraphDb.
+All rights reserved :D
